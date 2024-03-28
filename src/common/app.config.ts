@@ -8,7 +8,7 @@
  */
 export const Brand = {
   Title: {
-    Base: 'big-AGI',
+    Base: 'Asgers fantastiske KGI',
     Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
   },
   Meta: {
